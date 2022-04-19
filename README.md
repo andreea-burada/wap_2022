@@ -1,4 +1,4 @@
-# wap_2022
-Personal repository for a C# course I took in the 2nd year of my bachelor.
+# WAP - Windows Applications Programming
+_Disclaimer: All code snippets are mine. The .md files in each folder belong to my professor and are *not* mine. You can find the originals [here](https://github.com/liviucotfas/ase-windows-applications-programming)_
 
-##Course name: WAP - Windows Applications Programming
+Personal repository for a C# course I took in the 2nd year of my bachelor.
