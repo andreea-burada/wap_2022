@@ -1,0 +1,15 @@
+E:\Code Projects\WAP\seminar_01\seminar_01\bin\Debug\net6.0\seminar_01.exe
+E:\Code Projects\WAP\seminar_01\seminar_01\bin\Debug\net6.0\seminar_01.deps.json
+E:\Code Projects\WAP\seminar_01\seminar_01\bin\Debug\net6.0\seminar_01.runtimeconfig.json
+E:\Code Projects\WAP\seminar_01\seminar_01\bin\Debug\net6.0\seminar_01.dll
+E:\Code Projects\WAP\seminar_01\seminar_01\bin\Debug\net6.0\seminar_01.pdb
+E:\Code Projects\WAP\seminar_01\seminar_01\obj\Debug\net6.0\seminar_01.csproj.AssemblyReference.cache
+E:\Code Projects\WAP\seminar_01\seminar_01\obj\Debug\net6.0\seminar_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Projects\WAP\seminar_01\seminar_01\obj\Debug\net6.0\seminar_01.AssemblyInfoInputs.cache
+E:\Code Projects\WAP\seminar_01\seminar_01\obj\Debug\net6.0\seminar_01.AssemblyInfo.cs
+E:\Code Projects\WAP\seminar_01\seminar_01\obj\Debug\net6.0\seminar_01.csproj.CoreCompileInputs.cache
+E:\Code Projects\WAP\seminar_01\seminar_01\obj\Debug\net6.0\seminar_01.dll
+E:\Code Projects\WAP\seminar_01\seminar_01\obj\Debug\net6.0\refint\seminar_01.dll
+E:\Code Projects\WAP\seminar_01\seminar_01\obj\Debug\net6.0\seminar_01.pdb
+E:\Code Projects\WAP\seminar_01\seminar_01\obj\Debug\net6.0\seminar_01.genruntimeconfig.cache
+E:\Code Projects\WAP\seminar_01\seminar_01\obj\Debug\net6.0\ref\seminar_01.dll
