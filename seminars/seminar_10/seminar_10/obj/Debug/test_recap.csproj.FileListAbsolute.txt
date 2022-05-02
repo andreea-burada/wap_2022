@@ -1,0 +1,12 @@
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\bin\Debug\seminar_10.exe.config
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\bin\Debug\seminar_10.exe
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\bin\Debug\seminar_10.pdb
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\test_recap.csproj.AssemblyReference.cache
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\test_recap.csproj.SuggestedBindingRedirects.cache
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.BuildingForm.resources
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.Properties.Resources.resources
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.RoomForm.resources
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\test_recap.csproj.GenerateResource.cache
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\test_recap.csproj.CoreCompileInputs.cache
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.exe
+C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.pdb
