@@ -1,0 +1,8 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_interface\bin\Debug\02_interface.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_interface\bin\Debug\02_interface.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_interface\bin\Debug\02_interface.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_interface\obj\Debug\02_interfaces.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_interface\obj\Debug\02_interfaces.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_interface\obj\Debug\02_interfaces.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_interface\obj\Debug\02_interface.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_interface\obj\Debug\02_interface.pdb
