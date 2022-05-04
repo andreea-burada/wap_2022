@@ -1,0 +1,8 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_delegates\bin\Debug\04_delegates.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_delegates\bin\Debug\04_delegates.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_delegates\bin\Debug\04_delegates.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_delegates\obj\Debug\04_delegates.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_delegates\obj\Debug\04_delegates.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_delegates\obj\Debug\04_delegates.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_delegates\obj\Debug\04_delegates.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_delegates\obj\Debug\04_delegates.pdb
