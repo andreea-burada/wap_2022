@@ -1,0 +1,8 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\03_collections\03_collections\obj\Debug\03_collections.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\03_collections\03_collections\obj\Debug\03_collections.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\03_collections\03_collections\obj\Debug\03_collections.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\03_collections\03_collections\bin\Debug\03_collections.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\03_collections\03_collections\bin\Debug\03_collections.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\03_collections\03_collections\bin\Debug\03_collections.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\03_collections\03_collections\obj\Debug\03_collections.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\03_collections\03_collections\obj\Debug\03_collections.pdb
