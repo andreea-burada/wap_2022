@@ -1,0 +1,8 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_inheritance\bin\Debug\02_inheritance.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_inheritance\bin\Debug\02_inheritance.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_inheritance\bin\Debug\02_inheritance.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_inheritance\obj\Debug\02_inheritance.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_inheritance\obj\Debug\02_inheritance.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_inheritance\obj\Debug\02_inheritance.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_inheritance\obj\Debug\02_inheritance.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\02_inheritance\obj\Debug\02_inheritance.pdb
