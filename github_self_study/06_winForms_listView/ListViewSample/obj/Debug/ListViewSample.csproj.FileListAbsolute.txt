@@ -1,0 +1,11 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\bin\Debug\ListViewSample.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\bin\Debug\ListViewSample.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\bin\Debug\ListViewSample.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\obj\Debug\ListViewSample.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\obj\Debug\ListViewSample.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\obj\Debug\ListViewSample.MainForm.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\obj\Debug\ListViewSample.Properties.Resources.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\obj\Debug\ListViewSample.csproj.GenerateResource.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\obj\Debug\ListViewSample.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\obj\Debug\ListViewSample.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_listView\ListViewSample\obj\Debug\ListViewSample.pdb
