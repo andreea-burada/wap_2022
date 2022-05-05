@@ -1,0 +1,15 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.manifest
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.application
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.MainForm.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe.manifest
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.application
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb

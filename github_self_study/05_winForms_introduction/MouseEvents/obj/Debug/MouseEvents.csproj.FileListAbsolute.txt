@@ -1,0 +1,11 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\bin\Debug\MouseEvents.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\bin\Debug\MouseEvents.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\bin\Debug\MouseEvents.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\obj\Debug\MouseEvents.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\obj\Debug\MouseEvents.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\obj\Debug\MouseEvents.MainForm.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\obj\Debug\MouseEvents.Properties.Resources.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\obj\Debug\MouseEvents.csproj.GenerateResource.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\obj\Debug\MouseEvents.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\obj\Debug\MouseEvents.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\05_winForms_introduction\MouseEvents\obj\Debug\MouseEvents.pdb
