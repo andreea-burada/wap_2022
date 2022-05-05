@@ -1,0 +1,8 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_events\bin\Debug\04_events.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_events\bin\Debug\04_events.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_events\bin\Debug\04_events.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_events\obj\Debug\04_events.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_events\obj\Debug\04_events.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_events\obj\Debug\04_events.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_events\obj\Debug\04_events.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\04_events\obj\Debug\04_events.pdb
