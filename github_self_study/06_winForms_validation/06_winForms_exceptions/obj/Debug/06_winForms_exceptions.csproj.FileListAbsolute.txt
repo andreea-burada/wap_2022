@@ -1,0 +1,11 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\bin\Debug\06_winForms_exceptions.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\bin\Debug\06_winForms_exceptions.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\bin\Debug\06_winForms_exceptions.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\obj\Debug\06_winForms_exceptions.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\obj\Debug\06_winForms_exceptions.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\obj\Debug\_06_winForms_exceptions.MainForm.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\obj\Debug\_06_winForms_exceptions.Properties.Resources.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\obj\Debug\06_winForms_exceptions.csproj.GenerateResource.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\obj\Debug\06_winForms_exceptions.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\obj\Debug\06_winForms_exceptions.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\06_winForms_validation\06_winForms_exceptions\obj\Debug\06_winForms_exceptions.pdb
