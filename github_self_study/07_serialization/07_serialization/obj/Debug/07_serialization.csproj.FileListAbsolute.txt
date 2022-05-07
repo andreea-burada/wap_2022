@@ -1,0 +1,11 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\bin\Debug\ListViewBasicSample.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\bin\Debug\ListViewBasicSample.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\bin\Debug\ListViewBasicSample.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\obj\Debug\07_serialization.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\obj\Debug\07_serialization.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\obj\Debug\ListViewBasicSample.MainForm.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\obj\Debug\ListViewBasicSample.Properties.Resources.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\obj\Debug\07_serialization.csproj.GenerateResource.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\obj\Debug\07_serialization.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\obj\Debug\ListViewBasicSample.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\07_serialization\obj\Debug\ListViewBasicSample.pdb

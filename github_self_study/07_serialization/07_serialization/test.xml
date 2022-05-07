@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfParticipant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Participant>
+    <LastName>a</LastName>
+    <FirstName>c</FirstName>
+    <BirthDate>2022-05-07T15:31:54.0544681+03:00</BirthDate>
+  </Participant>
+  <Participant>
+    <LastName>b</LastName>
+    <FirstName>d</FirstName>
+    <BirthDate>2022-05-07T15:31:54.0544681+03:00</BirthDate>
+  </Participant>
+</ArrayOfParticipant>

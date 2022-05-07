@@ -1,0 +1,15 @@
+$Recycle.Bin
+$WinREAgent
+Action!
+AMD
+Documents and Settings
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+Software
+System Volume Information
+Users
+Windows

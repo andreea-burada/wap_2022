@@ -1,0 +1,8 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\writeLocalDrives\bin\Debug\writeLocalDrives.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\writeLocalDrives\bin\Debug\writeLocalDrives.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\writeLocalDrives\bin\Debug\writeLocalDrives.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\writeLocalDrives\obj\Debug\writeLocalDrives.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\writeLocalDrives\obj\Debug\writeLocalDrives.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\writeLocalDrives\obj\Debug\writeLocalDrives.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\writeLocalDrives\obj\Debug\writeLocalDrives.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\07_serialization\writeLocalDrives\obj\Debug\writeLocalDrives.pdb
