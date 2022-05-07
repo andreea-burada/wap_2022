@@ -10,3 +10,15 @@ C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\test_recap.cs
 C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\test_recap.csproj.CoreCompileInputs.cache
 C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.exe
 C:\Code Projects\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.pdb
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\bin\Debug\seminar_10.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\bin\Debug\seminar_10.exe
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\bin\Debug\seminar_10.pdb
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\test_recap.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\test_recap.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.BuildingForm.resources
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.Properties.Resources.resources
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.RoomForm.resources
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\test_recap.csproj.GenerateResource.cache
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\test_recap.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.exe
+E:\Code Projects\GitHubRepos\wap_2022\seminars\seminar_10\seminar_10\obj\Debug\seminar_10.pdb

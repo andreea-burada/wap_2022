@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace seminar_10.Entitites
 {
-    public class Room : IComparible<Room>
+    [Serializable]
+    public class Room : IComparable<Room>
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -19,6 +20,11 @@ namespace seminar_10.Entitites
             this.Id = id;
             this.Name = name;
             this.HasProjector = hasProj;
+        }
+
+        public int CompareTo(Room other)
+        {
+            return Id.CompareTo(other.Id);
         }
     }
 }

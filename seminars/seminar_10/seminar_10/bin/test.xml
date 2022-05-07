@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Building xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rooms>
+    <Room>
+      <Id>0</Id>
+      <Name>sefse</Name>
+      <HasProjector>false</HasProjector>
+    </Room>
+    <Room>
+      <Id>2</Id>
+      <Name>sfe</Name>
+      <HasProjector>false</HasProjector>
+    </Room>
+  </Rooms>
+</Building>

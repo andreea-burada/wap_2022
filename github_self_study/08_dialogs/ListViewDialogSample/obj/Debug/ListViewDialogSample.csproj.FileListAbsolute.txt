@@ -1,0 +1,12 @@
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\bin\Debug\ListViewBasicSample.exe.config
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\bin\Debug\ListViewBasicSample.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\bin\Debug\ListViewBasicSample.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\obj\Debug\ListViewDialogSample.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\obj\Debug\ListViewDialogSample.csproj.SuggestedBindingRedirects.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\obj\Debug\ListViewBasicSample.MainForm.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\obj\Debug\ListViewBasicSample.Properties.Resources.resources
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\obj\Debug\ListViewDialogSample.csproj.GenerateResource.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\obj\Debug\ListViewDialogSample.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\obj\Debug\ListViewBasicSample.exe
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\obj\Debug\ListViewBasicSample.pdb
+E:\Code Projects\GitHubRepos\wap_2022\github_self_study\08_dialogs\ListViewDialogSample\obj\Debug\ListViewBasicSample.EditForm.resources

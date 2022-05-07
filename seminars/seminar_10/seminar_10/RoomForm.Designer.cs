@@ -28,99 +28,120 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.checkHasProjector = new System.Windows.Forms.CheckBox();
-            this.roomIdUpDown = new System.Windows.Forms.NumericUpDown();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.nameTextBox = new System.Windows.Forms.TextBox();
-            this.enterNameTextBox = new System.Windows.Forms.TextBox();
-            this.returnButton = new System.Windows.Forms.Button();
-            this.submitButton = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.roomIdUpDown)).BeginInit();
+            this.checkHasProjector_Edit = new System.Windows.Forms.CheckBox();
+            this.roomId_Edit = new System.Windows.Forms.NumericUpDown();
+            this.roomName_Edit = new System.Windows.Forms.TextBox();
+            this.btnCancel = new System.Windows.Forms.Button();
+            this.btnSubmit = new System.Windows.Forms.Button();
+            this.lbId = new System.Windows.Forms.Label();
+            this.lbName = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.roomId_Edit)).BeginInit();
             this.SuspendLayout();
             // 
-            // checkHasProjector
+            // checkHasProjector_Edit
             // 
-            this.checkHasProjector.AutoSize = true;
-            this.checkHasProjector.Location = new System.Drawing.Point(68, 129);
-            this.checkHasProjector.Name = "checkHasProjector";
-            this.checkHasProjector.Size = new System.Drawing.Size(111, 20);
-            this.checkHasProjector.TabIndex = 0;
-            this.checkHasProjector.Text = "Has Projector";
-            this.checkHasProjector.UseVisualStyleBackColor = true;
+            this.checkHasProjector_Edit.AutoSize = true;
+            this.checkHasProjector_Edit.Location = new System.Drawing.Point(103, 105);
+            this.checkHasProjector_Edit.Margin = new System.Windows.Forms.Padding(2);
+            this.checkHasProjector_Edit.Name = "checkHasProjector_Edit";
+            this.checkHasProjector_Edit.Size = new System.Drawing.Size(90, 17);
+            this.checkHasProjector_Edit.TabIndex = 0;
+            this.checkHasProjector_Edit.Text = "Has Projector";
+            this.checkHasProjector_Edit.UseVisualStyleBackColor = true;
             // 
-            // roomIdUpDown
+            // roomId_Edit
             // 
-            this.roomIdUpDown.Location = new System.Drawing.Point(122, 43);
-            this.roomIdUpDown.Name = "roomIdUpDown";
-            this.roomIdUpDown.Size = new System.Drawing.Size(321, 22);
-            this.roomIdUpDown.TabIndex = 1;
-            this.roomIdUpDown.Tag = "";
-            this.roomIdUpDown.ValueChanged += new System.EventHandler(this.roomIdUpDown_ValueChanged);
+            this.roomId_Edit.Location = new System.Drawing.Point(103, 35);
+            this.roomId_Edit.Margin = new System.Windows.Forms.Padding(2);
+            this.roomId_Edit.Name = "roomId_Edit";
+            this.roomId_Edit.Size = new System.Drawing.Size(230, 20);
+            this.roomId_Edit.TabIndex = 1;
+            this.roomId_Edit.Tag = "";
+            this.roomId_Edit.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.roomId_Edit.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             // 
-            // textBox1
+            // roomName_Edit
             // 
-            this.textBox1.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox1.Location = new System.Drawing.Point(68, 42);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(48, 22);
-            this.textBox1.TabIndex = 2;
-            this.textBox1.Text = "ID";
+            this.roomName_Edit.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.roomName_Edit.ForeColor = System.Drawing.SystemColors.MenuText;
+            this.roomName_Edit.Location = new System.Drawing.Point(103, 69);
+            this.roomName_Edit.Margin = new System.Windows.Forms.Padding(2);
+            this.roomName_Edit.Name = "roomName_Edit";
+            this.roomName_Edit.Size = new System.Drawing.Size(230, 20);
+            this.roomName_Edit.TabIndex = 4;
+            this.roomName_Edit.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
-            // nameTextBox
+            // btnCancel
             // 
-            this.nameTextBox.BackColor = System.Drawing.SystemColors.Control;
-            this.nameTextBox.Location = new System.Drawing.Point(68, 85);
-            this.nameTextBox.Name = "nameTextBox";
-            this.nameTextBox.Size = new System.Drawing.Size(48, 22);
-            this.nameTextBox.TabIndex = 3;
-            this.nameTextBox.Text = "Name";
+            this.btnCancel.BackColor = System.Drawing.Color.Firebrick;
+            this.btnCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCancel.ForeColor = System.Drawing.Color.White;
+            this.btnCancel.Location = new System.Drawing.Point(303, 161);
+            this.btnCancel.Margin = new System.Windows.Forms.Padding(2);
+            this.btnCancel.Name = "btnCancel";
+            this.btnCancel.Size = new System.Drawing.Size(73, 29);
+            this.btnCancel.TabIndex = 5;
+            this.btnCancel.Text = "Cancel";
+            this.btnCancel.UseVisualStyleBackColor = false;
             // 
-            // enterNameTextBox
+            // btnSubmit
             // 
-            this.enterNameTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.enterNameTextBox.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.enterNameTextBox.Location = new System.Drawing.Point(122, 85);
-            this.enterNameTextBox.Name = "enterNameTextBox";
-            this.enterNameTextBox.Size = new System.Drawing.Size(303, 22);
-            this.enterNameTextBox.TabIndex = 4;
-            this.enterNameTextBox.Text = "(Enter the name here)";
-            this.enterNameTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.btnSubmit.BackColor = System.Drawing.Color.SeaGreen;
+            this.btnSubmit.DialogResult = System.Windows.Forms.DialogResult.OK;
+            this.btnSubmit.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSubmit.ForeColor = System.Drawing.Color.White;
+            this.btnSubmit.Location = new System.Drawing.Point(226, 161);
+            this.btnSubmit.Margin = new System.Windows.Forms.Padding(2);
+            this.btnSubmit.Name = "btnSubmit";
+            this.btnSubmit.Size = new System.Drawing.Size(73, 29);
+            this.btnSubmit.TabIndex = 6;
+            this.btnSubmit.Text = "Submit";
+            this.btnSubmit.UseVisualStyleBackColor = false;
+            this.btnSubmit.Click += new System.EventHandler(this.btnSubmit_Click);
             // 
-            // returnButton
+            // lbId
             // 
-            this.returnButton.Location = new System.Drawing.Point(412, 263);
-            this.returnButton.Name = "returnButton";
-            this.returnButton.Size = new System.Drawing.Size(97, 36);
-            this.returnButton.TabIndex = 5;
-            this.returnButton.Text = "Return";
-            this.returnButton.UseVisualStyleBackColor = true;
+            this.lbId.AutoSize = true;
+            this.lbId.Location = new System.Drawing.Point(69, 37);
+            this.lbId.Name = "lbId";
+            this.lbId.Size = new System.Drawing.Size(18, 13);
+            this.lbId.TabIndex = 7;
+            this.lbId.Text = "ID";
             // 
-            // submitButton
+            // lbName
             // 
-            this.submitButton.Location = new System.Drawing.Point(309, 263);
-            this.submitButton.Name = "submitButton";
-            this.submitButton.Size = new System.Drawing.Size(97, 36);
-            this.submitButton.TabIndex = 6;
-            this.submitButton.Text = "Submit";
-            this.submitButton.UseVisualStyleBackColor = true;
+            this.lbName.AutoSize = true;
+            this.lbName.Location = new System.Drawing.Point(21, 72);
+            this.lbName.Name = "lbName";
+            this.lbName.Size = new System.Drawing.Size(66, 13);
+            this.lbName.TabIndex = 8;
+            this.lbName.Text = "Room Name";
             // 
             // RoomForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AcceptButton = this.btnSubmit;
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(521, 311);
-            this.Controls.Add(this.submitButton);
-            this.Controls.Add(this.returnButton);
-            this.Controls.Add(this.enterNameTextBox);
-            this.Controls.Add(this.nameTextBox);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.roomIdUpDown);
-            this.Controls.Add(this.checkHasProjector);
+            this.CancelButton = this.btnCancel;
+            this.ClientSize = new System.Drawing.Size(391, 206);
+            this.Controls.Add(this.lbName);
+            this.Controls.Add(this.lbId);
+            this.Controls.Add(this.btnSubmit);
+            this.Controls.Add(this.btnCancel);
+            this.Controls.Add(this.roomName_Edit);
+            this.Controls.Add(this.roomId_Edit);
+            this.Controls.Add(this.checkHasProjector_Edit);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "RoomForm";
-            this.Text = "RoomForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.Text = "Add/Edit Room";
             this.Load += new System.EventHandler(this.RoomForm_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.roomIdUpDown)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.roomId_Edit)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -128,12 +149,12 @@
 
         #endregion
 
-        private System.Windows.Forms.CheckBox checkHasProjector;
-        private System.Windows.Forms.NumericUpDown roomIdUpDown;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox nameTextBox;
-        private System.Windows.Forms.TextBox enterNameTextBox;
-        private System.Windows.Forms.Button returnButton;
-        private System.Windows.Forms.Button submitButton;
+        private System.Windows.Forms.CheckBox checkHasProjector_Edit;
+        private System.Windows.Forms.NumericUpDown roomId_Edit;
+        private System.Windows.Forms.TextBox roomName_Edit;
+        private System.Windows.Forms.Button btnCancel;
+        private System.Windows.Forms.Button btnSubmit;
+        private System.Windows.Forms.Label lbId;
+        private System.Windows.Forms.Label lbName;
     }
 }

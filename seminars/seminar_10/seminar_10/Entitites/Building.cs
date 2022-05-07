@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace seminar_10.Entitites
 {
+    [Serializable]
     public class Building
     {
         public List<Room> Rooms { get; set; }
