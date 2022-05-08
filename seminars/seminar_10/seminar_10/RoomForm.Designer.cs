@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.checkHasProjector_Edit = new System.Windows.Forms.CheckBox();
             this.roomId_Edit = new System.Windows.Forms.NumericUpDown();
             this.roomName_Edit = new System.Windows.Forms.TextBox();
@@ -35,7 +36,9 @@
             this.btnSubmit = new System.Windows.Forms.Button();
             this.lbId = new System.Windows.Forms.Label();
             this.lbName = new System.Windows.Forms.Label();
+            this.errorProvider = new System.Windows.Forms.ErrorProvider(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.roomId_Edit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider)).BeginInit();
             this.SuspendLayout();
             // 
             // checkHasProjector_Edit
@@ -58,11 +61,7 @@
             this.roomId_Edit.TabIndex = 1;
             this.roomId_Edit.Tag = "";
             this.roomId_Edit.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.roomId_Edit.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
+            this.roomId_Edit.Validating += new System.ComponentModel.CancelEventHandler(this.roomId_Edit_Validating);
             // 
             // roomName_Edit
             // 
@@ -74,10 +73,12 @@
             this.roomName_Edit.Size = new System.Drawing.Size(230, 20);
             this.roomName_Edit.TabIndex = 4;
             this.roomName_Edit.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.roomName_Edit.Validating += new System.ComponentModel.CancelEventHandler(this.roomName_Edit_Validating);
             // 
             // btnCancel
             // 
             this.btnCancel.BackColor = System.Drawing.Color.Firebrick;
+            this.btnCancel.CausesValidation = false;
             this.btnCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancel.ForeColor = System.Drawing.Color.White;
@@ -122,6 +123,11 @@
             this.lbName.TabIndex = 8;
             this.lbName.Text = "Room Name";
             // 
+            // errorProvider
+            // 
+            this.errorProvider.BlinkStyle = System.Windows.Forms.ErrorBlinkStyle.NeverBlink;
+            this.errorProvider.ContainerControl = this;
+            // 
             // RoomForm
             // 
             this.AcceptButton = this.btnSubmit;
@@ -142,6 +148,7 @@
             this.Text = "Add/Edit Room";
             this.Load += new System.EventHandler(this.RoomForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.roomId_Edit)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -156,5 +163,6 @@
         private System.Windows.Forms.Button btnSubmit;
         private System.Windows.Forms.Label lbId;
         private System.Windows.Forms.Label lbName;
+        private System.Windows.Forms.ErrorProvider errorProvider;
     }
 }

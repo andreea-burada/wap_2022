@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Building xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rooms>
+    <Room>
+      <Id>1</Id>
+      <Name>Secretary</Name>
+      <HasProjector>false</HasProjector>
+    </Room>
+    <Room>
+      <Id>6</Id>
+      <Name>M1 Course</Name>
+      <HasProjector>true</HasProjector>
+    </Room>
+    <Room>
+      <Id>7</Id>
+      <Name>M2 Course</Name>
+      <HasProjector>true</HasProjector>
+    </Room>
+    <Room>
+      <Id>9</Id>
+      <Name>Chem Lab</Name>
+      <HasProjector>true</HasProjector>
+    </Room>
+    <Room>
+      <Id>10</Id>
+      <Name>English Conterum</Name>
+      <HasProjector>false</HasProjector>
+    </Room>
+    <Room>
+      <Id>12</Id>
+      <Name>Biology Lab</Name>
+      <HasProjector>true</HasProjector>
+    </Room>
+  </Rooms>
+</Building>

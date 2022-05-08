@@ -37,9 +37,9 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.miXML = new System.Windows.Forms.ToolStripMenuItem();
-            this.binToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.miXML_Import = new System.Windows.Forms.ToolStripMenuItem();
             this.miXML_Export = new System.Windows.Forms.ToolStripMenuItem();
+            this.binToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.importToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.exportToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dgvRooms)).BeginInit();
@@ -61,6 +61,7 @@
             this.dgvRooms.RowTemplate.Height = 24;
             this.dgvRooms.Size = new System.Drawing.Size(683, 337);
             this.dgvRooms.TabIndex = 0;
+            this.dgvRooms.DoubleClick += new System.EventHandler(this.dgvRooms_DoubleClick);
             // 
             // Col_ID
             // 
@@ -143,6 +144,20 @@
             this.miXML.Size = new System.Drawing.Size(46, 20);
             this.miXML.Text = ".XML";
             // 
+            // miXML_Import
+            // 
+            this.miXML_Import.Name = "miXML_Import";
+            this.miXML_Import.Size = new System.Drawing.Size(110, 22);
+            this.miXML_Import.Text = "Import";
+            this.miXML_Import.Click += new System.EventHandler(this.miXML_Import_Click);
+            // 
+            // miXML_Export
+            // 
+            this.miXML_Export.Name = "miXML_Export";
+            this.miXML_Export.Size = new System.Drawing.Size(110, 22);
+            this.miXML_Export.Text = "Export";
+            this.miXML_Export.Click += new System.EventHandler(this.miXML_Export_Click);
+            // 
             // binToolStripMenuItem
             // 
             this.binToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -152,31 +167,17 @@
             this.binToolStripMenuItem.Size = new System.Drawing.Size(39, 20);
             this.binToolStripMenuItem.Text = ".bin";
             // 
-            // miXML_Import
-            // 
-            this.miXML_Import.Name = "miXML_Import";
-            this.miXML_Import.Size = new System.Drawing.Size(180, 22);
-            this.miXML_Import.Text = "Import";
-            this.miXML_Import.Click += new System.EventHandler(this.miXML_Import_Click);
-            // 
-            // miXML_Export
-            // 
-            this.miXML_Export.Name = "miXML_Export";
-            this.miXML_Export.Size = new System.Drawing.Size(180, 22);
-            this.miXML_Export.Text = "Export";
-            this.miXML_Export.Click += new System.EventHandler(this.miXML_Export_Click);
-            // 
             // importToolStripMenuItem1
             // 
             this.importToolStripMenuItem1.Name = "importToolStripMenuItem1";
-            this.importToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.importToolStripMenuItem1.Size = new System.Drawing.Size(110, 22);
             this.importToolStripMenuItem1.Text = "Import";
             this.importToolStripMenuItem1.Click += new System.EventHandler(this.importToolStripMenuItem1_Click);
             // 
             // exportToolStripMenuItem1
             // 
             this.exportToolStripMenuItem1.Name = "exportToolStripMenuItem1";
-            this.exportToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.exportToolStripMenuItem1.Size = new System.Drawing.Size(110, 22);
             this.exportToolStripMenuItem1.Text = "Export";
             this.exportToolStripMenuItem1.Click += new System.EventHandler(this.exportToolStripMenuItem1_Click);
             // 

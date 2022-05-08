@@ -52,18 +52,14 @@ namespace seminar_10
                 return;
             }
             RoomForm roomFormWindow = new RoomForm(toAddEdit);
-            try
+            
+            if (roomFormWindow.ShowDialog() == DialogResult.OK)
             {
-                if (roomFormWindow.ShowDialog() == DialogResult.OK)
-                {
-
-                    if (isNew == true)
-                        _building.Rooms.Add(toAddEdit);
-                    displayRooms();
-                }
+                if (isNew == true)
+                    _building.Rooms.Add(toAddEdit);
+                displayRooms();
             }
-            catch (Exception ex) { 
-            }
+            
            
         }
 
@@ -159,5 +155,24 @@ namespace seminar_10
             }
         }
 
+        private void dgvRooms_DoubleClick(object sender, EventArgs e)
+        {
+
+            if (dgvRooms.SelectedRows.Count == 1)
+            {
+
+                RoomForm roomFormWindow = new RoomForm((Room)dgvRooms.SelectedRows[0].Tag);
+                if (roomFormWindow.ShowDialog() == DialogResult.OK)
+                    displayRooms();    
+            }
+
+            if (dgvRooms.SelectedCells.Count == 1)
+            {
+
+                RoomForm roomFormWindow = new RoomForm((Room)dgvRooms.Rows[dgvRooms.SelectedCells[0].RowIndex].Tag);
+                if (roomFormWindow.ShowDialog() == DialogResult.OK)
+                    displayRooms();
+            }
+        }
     }
 }
