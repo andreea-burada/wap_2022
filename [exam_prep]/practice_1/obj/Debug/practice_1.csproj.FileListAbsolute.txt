@@ -31,3 +31,6 @@ E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_
 E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\practice_1\bin\Debug\ChartLibrary.dll
 E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\practice_1\bin\Debug\ChartLibrary.pdb
 E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.BarChart.resources
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\bin\Debug\ChartLibrary.dll
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\bin\Debug\ChartLibrary.pdb
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.BarChart.resources

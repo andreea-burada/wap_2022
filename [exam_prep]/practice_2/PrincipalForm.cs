@@ -52,6 +52,7 @@ namespace practice_2
             // display both lists
             displayCars();
             //displayComponents();
+            displayDataGrid();
         }
         private void loadFromDatabase()
         {
@@ -103,6 +104,27 @@ namespace practice_2
                     }
                 }
                 dbConnect.Close();
+            }
+        }
+        private void displayDataGrid()
+        {
+            dataGridView.Rows.Clear();
+            for (int i = 0; i < 3; i++)
+            {
+                //DataGridView
+                //DataGridViewRow toAdd = (DataGridViewRow)new object[] { 
+                //    i * 100 + 1 , "Row " + (i + 1).ToString(),
+                //"Yes $$$"};
+                //toAdd.Cells[0].Value = ;
+                //toAdd.Cells[1].Value = ;
+                //toAdd.Cells[2].Value = ;
+
+                
+
+                int index = dataGridView.Rows.Add(new object[] { 
+                     (i+1) * 100 + 1 , "Row " + (i + 1).ToString(),
+                "Yes $$$"});
+                dataGridView.Rows[index].Tag = new Object();
             }
         }
         private void displayCars()

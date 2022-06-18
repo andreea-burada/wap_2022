@@ -6,3 +6,11 @@ E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLi
 E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.csproj.GenerateResource.cache
 E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.dll
 E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.pdb
+C:\Code Projects\wap_2022\[exam_prep]\ChartLibrary\bin\Debug\ChartLibrary.dll
+C:\Code Projects\wap_2022\[exam_prep]\ChartLibrary\bin\Debug\ChartLibrary.pdb
+C:\Code Projects\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.csproj.AssemblyReference.cache
+C:\Code Projects\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.BarChartControl.resources
+C:\Code Projects\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.csproj.GenerateResource.cache
+C:\Code Projects\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.csproj.CoreCompileInputs.cache
+C:\Code Projects\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.dll
+C:\Code Projects\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.pdb
