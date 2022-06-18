@@ -17,7 +17,7 @@ namespace practice_1.Entities
     public class Specialty
     {
         #region Attributes
-        protected int Id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
         #endregion
 

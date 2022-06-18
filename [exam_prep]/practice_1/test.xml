@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfDoctor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doctor>
+    <Id>1</Id>
+    <Name>Joshua Kingston</Name>
+    <BirthDate>1992-06-18T13:25:50.2925275</BirthDate>
+    <Wage>34000</Wage>
+    <IdSpecialty>1</IdSpecialty>
+  </Doctor>
+  <Doctor>
+    <Id>2</Id>
+    <Name>Marie Johnson</Name>
+    <BirthDate>1992-06-18T14:13:04.2857505</BirthDate>
+    <Wage>34668</Wage>
+    <IdSpecialty>2</IdSpecialty>
+  </Doctor>
+  <Doctor>
+    <Id>3</Id>
+    <Name>AnaMaria</Name>
+    <BirthDate>1990-06-13T14:19:47</BirthDate>
+    <Wage>34244</Wage>
+    <IdSpecialty>2</IdSpecialty>
+  </Doctor>
+  <Doctor>
+    <Id>4</Id>
+    <Name>Zack</Name>
+    <BirthDate>1989-06-21T14:20:27</BirthDate>
+    <Wage>345245</Wage>
+    <IdSpecialty>0</IdSpecialty>
+  </Doctor>
+</ArrayOfDoctor>

@@ -113,6 +113,21 @@ namespace practice_1
                 errorpDoctor.SetError(dtpBirthDay, String.Empty);
             }
         }
+        private void tbWage_Validating(object sender, CancelEventArgs e)
+        {
+            if (decimal.TryParse(tbWage.Text, out decimal outD) == false)
+            {
+                errorpDoctor.SetError(tbWage, "Wage is decimal value");
+            }
+            else if (decimal.Parse(tbWage.Text) < 0)
+            {
+                errorpDoctor.SetError(tbWage, "Wage cannot be negative");
+            }
+            else
+            {
+                errorpDoctor.SetError(tbWage, String.Empty);
+            }
+        }
 
         private void DoctorForm_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -134,16 +149,6 @@ namespace practice_1
                 e.Cancel = false;
         }
 
-        private void tbWage_Validating(object sender, CancelEventArgs e)
-        {
-            if (decimal.TryParse(tbWage.Text, out decimal outD) == false)
-            {
-                errorpDoctor.SetError(tbWage, "Wage is decimal value");
-            }
-            else
-            {
-                errorpDoctor.SetError(tbWage, String.Empty);
-            }
-        }
+       
     }
 }

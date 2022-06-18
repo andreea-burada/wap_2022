@@ -1,0 +1,8 @@
+E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.csproj.AssemblyReference.cache
+E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.csproj.CoreCompileInputs.cache
+E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\bin\Debug\ChartLibrary.dll
+E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\bin\Debug\ChartLibrary.pdb
+E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.BarChartControl.resources
+E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.csproj.GenerateResource.cache
+E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.dll
+E:\Code Projects\GitHubRepos\wap_2022\[exam_prep]\ChartLibrary\obj\Debug\ChartLibrary.pdb
