@@ -10,11 +10,15 @@ using System.Windows.Forms;
 
 namespace practice_2
 {
-    public partial class Form1 : Form
+    public partial class BarChartForm : Form
     {
-        public Form1()
+        public BarChartForm()
         {
             InitializeComponent();
+        }
+        public BarChartForm(List<string> stringList, List<int> intList) : this()
+        {
+            barChart.ChangeData(stringList, intList);
         }
     }
 }

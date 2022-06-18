@@ -1,0 +1,17 @@
+﻿Mandatory: the project should compile and run without any errors. Only tested implementations will be graded.
+
+ (1p+) You are asked to develop an application for a car manufacturing company. The application will use the Car class (code, name, engine capacity, list of components) and the Component class (code, car code, supplier, weight).
+
+(1p) The Component class will implement the ICloneable interface and the IComparable interface for comparing two cars based on their weight.
+
+(1p) The Car class implements the + operator for adding a component to the list of components, the cast to double operator for computing the overall weight of all the components and overrides the ToString method.
+
+(2p) The main menu of the application will include the option to load the instances for the two classes from a relational database (SQL Server, MS Access, SQLite, etc.). The instances will be stored in the applciation using List<T> collections (or any other collection type).
+
+(1p) The instances will be displayed in the main form using two correlated ListView controls When choosing a car in the first ListView, the second ListView will display the associated components.
+
+(1p) Add a button to the main form, that when pressed will use the IComparable interface in order to sort the components of the selected car based on their weight. Update the ListView accordingly.
+
+(2p) Right clicking on the main form will open a secondary form displaying a bar chart of the engine capacities, drawn using the values stored in the database.
+
+(1p) Add the option to edit the items in the ListView by double clicking on them (using a secondary form). All the changes will be automatically persisted to the database when the application is closed.
