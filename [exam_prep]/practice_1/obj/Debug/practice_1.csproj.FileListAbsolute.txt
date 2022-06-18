@@ -1,0 +1,15 @@
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\bin\Debug\practice_1.exe.config
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\bin\Debug\practice_1.exe
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\bin\Debug\practice_1.pdb
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.csproj.AssemblyReference.cache
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.csproj.SuggestedBindingRedirects.cache
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.PrincipalForm.resources
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.Properties.Resources.resources
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.csproj.GenerateResource.cache
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.csproj.CoreCompileInputs.cache
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.exe
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.pdb
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.DoctorForm.resources
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\bin\Debug\System.Data.SQLite.dll
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\bin\Debug\System.Data.SQLite.xml
+C:\Code Projects\wap_2022\[exam_prep]\practice_1\obj\Debug\practice_1.csproj.CopyComplete
