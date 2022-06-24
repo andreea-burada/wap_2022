@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.lviewCars = new System.Windows.Forms.ListView();
             this.lviewComponents = new System.Windows.Forms.ListView();
             this.lbCars = new System.Windows.Forms.Label();
@@ -37,7 +38,10 @@
             this.Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.NameColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Rich = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.editToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).BeginInit();
+            this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lviewCars
@@ -45,10 +49,11 @@
             this.lviewCars.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lviewCars.BackColor = System.Drawing.Color.WhiteSmoke;
             this.lviewCars.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lviewCars.ContextMenuStrip = this.contextMenuStrip1;
             this.lviewCars.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lviewCars.HideSelection = false;
             this.lviewCars.Location = new System.Drawing.Point(69, 329);
-            this.lviewCars.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lviewCars.Margin = new System.Windows.Forms.Padding(4);
             this.lviewCars.Name = "lviewCars";
             this.lviewCars.Size = new System.Drawing.Size(614, 472);
             this.lviewCars.TabIndex = 0;
@@ -64,7 +69,7 @@
             this.lviewComponents.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lviewComponents.HideSelection = false;
             this.lviewComponents.Location = new System.Drawing.Point(724, 329);
-            this.lviewComponents.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lviewComponents.Margin = new System.Windows.Forms.Padding(4);
             this.lviewComponents.Name = "lviewComponents";
             this.lviewComponents.Size = new System.Drawing.Size(637, 472);
             this.lviewComponents.TabIndex = 1;
@@ -100,7 +105,7 @@
             this.btnSort.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSort.ForeColor = System.Drawing.Color.DarkBlue;
             this.btnSort.Location = new System.Drawing.Point(1160, 822);
-            this.btnSort.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSort.Margin = new System.Windows.Forms.Padding(4);
             this.btnSort.Name = "btnSort";
             this.btnSort.Size = new System.Drawing.Size(201, 33);
             this.btnSort.TabIndex = 4;
@@ -144,6 +149,20 @@
             this.Rich.Name = "Rich";
             this.Rich.Width = 125;
             // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.editToolStripMenuItem});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(105, 28);
+            // 
+            // editToolStripMenuItem
+            // 
+            this.editToolStripMenuItem.Name = "editToolStripMenuItem";
+            this.editToolStripMenuItem.Size = new System.Drawing.Size(104, 24);
+            this.editToolStripMenuItem.Text = "Edit";
+            // 
             // PrincipalForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -157,7 +176,7 @@
             this.Controls.Add(this.lviewComponents);
             this.Controls.Add(this.lviewCars);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.Name = "PrincipalForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -165,6 +184,7 @@
             this.Load += new System.EventHandler(this.PrincipalForm_Load);
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.PrincipalForm_MouseClick);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).EndInit();
+            this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -181,6 +201,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Id;
         private System.Windows.Forms.DataGridViewTextBoxColumn NameColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn Rich;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem editToolStripMenuItem;
     }
 }
 
